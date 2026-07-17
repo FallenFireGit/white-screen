@@ -1,6 +1,10 @@
 # TFT Display (ESP32-C3)
 
-This original project was gonna be way cooler, but missing some parts to make what I was originally gonna make, and my stepper motor was stolen from me in the middle of the night and my mouse :(
+This original project was gonna be way cooler, but it was missing some parts to make what I was originally gonna make, and my stepper motor was stolen from me in the middle of the night and my mouse :(. However, I had to submit at least something, so here you go. Parts should make it for Open Sauce tho so yay :)
+
+<img width="4284" height="5712" alt="IMG_0172" src="https://github.com/user-attachments/assets/bb34d855-1071-44de-b6e2-660339e8d081" />
+
+
 
 Drives a 2.8" TFT (TPM408-2.8, 240x320, ST7789)
 
